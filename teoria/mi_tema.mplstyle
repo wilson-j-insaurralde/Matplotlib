@@ -1,0 +1,17 @@
+# mi_tema.mplstyle
+font.family: DejaVu Sans
+font.size: 11
+figure.facecolor: #ffffff
+axes.facecolor: #fbfbfb
+axes.edgecolor: #222222
+axes.titlesize: 14
+axes.labelsize: 11
+axes.grid: True
+grid.color: #aaaaaa
+grid.linestyle: --
+grid.linewidth: 0.6
+grid.alpha: 0.5
+legend.frameon: False
+lines.linewidth: 2.0
+lines.markersize: 4.0
+axes.prop_cycle: color: #2D81FF, #FF6B6B, #2ECC71, #F1C40F, #9B59B6
